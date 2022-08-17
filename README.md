@@ -1,0 +1,2 @@
+# burc
+### tüm burcları yazdım.
